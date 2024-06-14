@@ -1,9 +1,12 @@
 # mc-gen
 A minecraft username generator/checker
 
-## How to use
+#  Setup
 
-download [main.py](https://github.com/meowistic/mc-gen/blob/main/main.py)
+1. Download the newest version of [python](https://www.python.org/downloads/)
+2. After downloading both of the files (`main.py`, `requirements.txt`), open your command prompt.
+3. type  ``pip install -r requirements.txt`` into the command prompt, this will download all the required packages.
+4. Open `main.py ` and enjoy the program!
 
 ## snapshots 📷
 
