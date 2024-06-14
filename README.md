@@ -3,7 +3,7 @@ A minecraft username generator/checker
 
 ## How to use
 
-download main.py
+download [main.py](https://github.com/meowistic/mc-gen/blob/main/main.py)
 
 ## snapshots 📷
 
